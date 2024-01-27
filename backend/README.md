@@ -8,3 +8,4 @@
 > * npm vite@latest
 > * npm install 
 > * npm install react react-icons react-router 
+> * Demo link - https://drive.google.com/file/d/1k38OiafmeyxDS4hvv2CCKLNguQKz8Ges/view?usp=sharing
